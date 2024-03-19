@@ -1,0 +1,4 @@
+pandas==2.2.1
+numpy==1.26.0
+seaborn==0.13.2
+-e .  #(setup.py file should run to build all the packages while running requirement.txt) 
