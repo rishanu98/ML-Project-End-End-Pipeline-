@@ -6,5 +6,7 @@ pandas
 scikit-learn
 catboost
 xgboost
+dill
+flask
 
 #-e .  #(setup.py file should run to build all the packages while running requirement.txt) 

@@ -1,3 +1,7 @@
 venv
 ML_PROJECT.egg-info
 data
+__pycache__
+atifacts
+src/components/logs
+src/logs
