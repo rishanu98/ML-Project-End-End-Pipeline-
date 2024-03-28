@@ -20,3 +20,5 @@
 
 `Docker`: Docker file to build docker image name as 
 [rishanu68/student_performance](https://hub.docker.com/repository/docker/rishanu68/student-performance-indicator/tags?page=1&ordering=last_updated)
+
+<img src="docker.png" width="900" height= "500" />
